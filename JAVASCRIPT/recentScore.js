@@ -7,7 +7,7 @@
   
     // Your web app's Firebase configuration
     const firebaseConfig = {
-      apiKey: "AIzaSyDbGshP3oEP_MDVyVG0hBnWsqVm95TdFj0",
+      // apiKey: "AIzaSyDbGshP3oEP_MDVyVG0hBnWsqVm95TdFj0",
       authDomain: "quizz-login-46241.firebaseapp.com",
       projectId: "quizz-login-46241",
       storageBucket: "quizz-login-46241.firebasestorage.app",
